@@ -1,9 +1,47 @@
+body {
+  background-color: yellow;
+}
+
+header {
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
 button,
 div,
 img {
-  margin: 10px;
+  margin: 5px;
 }
 
 #gifRating {
-  font-size: 24px;
+  font-size: 20px;
+}
+
+button {
+  background-color: crimson;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#superhero-form {
+  float: right;
+}
+
+#gifDisplay {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#add-superhero {
+  font-size: 20px;
+  background-color: blue;
+  color: yellow;
 }
